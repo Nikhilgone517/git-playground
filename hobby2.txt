@@ -1,1 +1,4 @@
 my second hobby is cricket.meow mewo meow.
+bow bow dog.
+moo moo cow.
+now i need to add this line to previos commit with new message.
